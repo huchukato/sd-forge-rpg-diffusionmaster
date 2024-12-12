@@ -1,3 +1,6 @@
+# Forge UI
+Minor fixes to let the extension run on Forge UI
+
 ## Note:
 This extension is Not Being Actively Developed due to a shift in my personal focus and interests. Besides, there was no feature change in the original RPG-DiffusionMaster project recently. 
 
